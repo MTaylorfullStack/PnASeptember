@@ -1,0 +1,16 @@
+1) The git boss wil create the repository
+ ** PM **
+
+2) After creation, you may invite collaborators
+
+3) Accept collaboration invitation
+
+4) Create branches `git checkout -b my_new_branch`
+ (switch branches `git checkout my_new_branch)`
+
+5) git push -u master my_new_branch
+    This is how we push OUR code to GITHUB
+
+6) git pull
+    This is how we retrieve code from github
+
